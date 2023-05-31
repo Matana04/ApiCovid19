@@ -85,6 +85,9 @@ color: rgb(218, 218, 218);
      <pointsize>14</pointsize>
     </font>
    </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
    <property name="styleSheet">
     <string notr="true">background-color:
 rgb(22,22,22);
@@ -93,6 +96,12 @@ color:rgb(231, 231, 231)</string>
    </property>
    <property name="text">
     <string>Consultar</string>
+   </property>
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="default">
+    <bool>false</bool>
    </property>
   </widget>
   <widget class="QTextBrowser" name="textBrowser">
@@ -106,7 +115,7 @@ color:rgb(231, 231, 231)</string>
    </property>
    <property name="font">
     <font>
-     <family>Malgun Gothic Semilight</family>
+     <family>Times New Roman</family>
      <pointsize>14</pointsize>
     </font>
    </property>
@@ -127,7 +136,7 @@ background-color: rgb(50, 50, 50)</string>
    </property>
    <property name="font">
     <font>
-     <family>Malgun Gothic Semilight</family>
+     <family>Times New Roman</family>
      <pointsize>14</pointsize>
     </font>
    </property>
@@ -225,7 +234,7 @@ background-color: rgb(62, 62, 62)</string>
    </property>
    <property name="font">
     <font>
-     <family>Malgun Gothic Semilight</family>
+     <family>Times New Roman</family>
      <pointsize>12</pointsize>
     </font>
    </property>
@@ -249,7 +258,7 @@ background-color: rgb(54, 54, 54)</string>
    </property>
    <property name="font">
     <font>
-     <family>Malgun Gothic Semilight</family>
+     <family>Times New Roman</family>
      <pointsize>12</pointsize>
     </font>
    </property>
